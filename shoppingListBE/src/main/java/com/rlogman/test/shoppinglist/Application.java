@@ -1,4 +1,4 @@
-package com.rlogman.test.precima.shoppinglist;
+package com.rlogman.test.shoppinglist;
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 

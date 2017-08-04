@@ -1,4 +1,4 @@
-package com.rlogman.test.precima.shoppinglist;
+package com.rlogman.test.shoppinglist;
 
 import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.Configuration;

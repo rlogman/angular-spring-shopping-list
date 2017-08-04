@@ -1,4 +1,4 @@
-package com.rlogman.test.precima.shoppinglist.domain;
+package com.rlogman.test.shoppinglist.domain;
 
 import javax.persistence.Entity;
 import javax.persistence.GeneratedValue;

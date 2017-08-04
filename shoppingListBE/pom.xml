@@ -3,7 +3,7 @@
   xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
   <modelVersion>4.0.0</modelVersion>
 
-  <groupId>com.rlogman.test.precima.shoppinglist</groupId>
+  <groupId>com.rlogman.test.shoppinglist</groupId>
   <artifactId>shopping-list-rest-api</artifactId>
   <version>0.1</version>
   <packaging>war</packaging>

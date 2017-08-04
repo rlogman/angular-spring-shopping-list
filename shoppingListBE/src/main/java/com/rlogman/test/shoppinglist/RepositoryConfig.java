@@ -1,10 +1,10 @@
-package com.rlogman.test.precima.shoppinglist;
+package com.rlogman.test.shoppinglist;
 
 import org.springframework.context.annotation.Configuration;
 import org.springframework.data.rest.core.config.RepositoryRestConfiguration;
 import org.springframework.data.rest.webmvc.config.RepositoryRestConfigurerAdapter;
 
-import com.rlogman.test.precima.shoppinglist.domain.ShoppingListItem;
+import com.rlogman.test.shoppinglist.domain.ShoppingListItem;
 
 @Configuration
 public class RepositoryConfig extends RepositoryRestConfigurerAdapter {

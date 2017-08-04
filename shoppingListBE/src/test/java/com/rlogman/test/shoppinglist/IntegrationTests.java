@@ -1,4 +1,4 @@
-package com.rlogman.test.precima.shoppinglist;
+package com.rlogman.test.shoppinglist;
 
 import static org.hamcrest.MatcherAssert.assertThat;
 import static org.hamcrest.Matchers.equalTo;
@@ -13,7 +13,7 @@ import org.springframework.http.HttpStatus;
 import org.springframework.http.ResponseEntity;
 import org.springframework.test.context.junit4.SpringRunner;
 
-import com.rlogman.test.precima.shoppinglist.domain.ShoppingListItem;
+import com.rlogman.test.shoppinglist.domain.ShoppingListItem;
 
 
 @RunWith(SpringRunner.class)

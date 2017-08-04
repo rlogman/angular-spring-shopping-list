@@ -1,5 +1,5 @@
 # ShoppingList REST API
-This project is a REST API for the ShoppingList model described in the technical test at Precima.
+This project is a REST API for the ShoppingList model described in the technical test.
 ## How to execute 
 Go to the project's root directory and run:
 ```bash
